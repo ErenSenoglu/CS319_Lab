@@ -23,7 +23,7 @@ public class Main {
         l4 = organizer.concatAndSort(l1,l2,l3);
         System.out.println("Result => "+l4);
 
-
+        System.out.println("Successfully reverted in Git.");
     }
 
 }
